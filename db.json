@@ -1,8 +1,8 @@
 {
     "schedule_blocks":{
         "question": { 
-            "id": 1, 
-            "label": "vraag 1",
+            "id": 2, 
+            "label": "vraag 2",
             "answers": [
             {
                 "id": 2, 
@@ -18,8 +18,33 @@
             }
            ] 
         },
-        "tip": 1,
-        "results": 1
+        "tip": {
+         "id": 1, 
+         "label": "test",
+         "link": "https://inuits.eu"
+        },
+        "results": { 
+         "id": 1, 
+         "label": "vraag 1",
+         "answers": [
+         {
+             "id": 2, 
+             "label": "antwoord 1",
+             "result": 0.3
+         },
+         {
+            "id": 2, 
+            "label": "antwoord 2",
+            "result": 0.5
+         },
+         {
+            "id": 3, 
+            "label": "antwoord 3",
+            "result": 0.2
+         }
+        ] 
+     },
+     "result_count": 1264
     },
     "questions": [
     { 
