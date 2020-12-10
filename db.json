@@ -1,0 +1,80 @@
+{
+    "schedule_blocks":{
+        "question": { 
+            "id": 1, 
+            "label": "vraag 1",
+            "answers": [
+            {
+                "id": 2, 
+                "label": "antwoord 1"
+            },
+            {
+               "id": 2, 
+               "label": "antwoord 2"
+            },
+            {
+               "id": 3, 
+               "label": "antwoord 3"
+            }
+           ] 
+        },
+        "tip": 1,
+        "results": 1
+    },
+    "questions": [
+    { 
+        "id": 1, 
+        "label": "vraag 1",
+        "answers": [
+        {
+            "id": 2, 
+            "label": "antwoord 1"
+        },
+        {
+           "id": 2, 
+           "label": "antwoord 2"
+        },
+        {
+           "id": 3, 
+           "label": "antwoord 3"
+        }
+       ] 
+    },
+    { 
+        "id": 2, 
+        "label": "vraag 2",
+        "answers": [
+        {
+            "id": 4, 
+            "label": "antwoord 4"
+        },
+        {
+           "id": 5, 
+           "label": "antwoord 5"
+        },
+        {
+           "id": 6, 
+           "label": "antwoord 6"
+        }
+       ] 
+    },
+    { 
+        "id": 3, 
+        "label": "vraag 3",
+        "answers": [
+        {
+            "id": 7, 
+            "label": "antwoord 7"
+        },
+        {
+           "id": 8, 
+           "label": "antwoord 8"
+        },
+        {
+           "id": 9, 
+           "label": "antwoord 9"
+        }
+       ] 
+    }
+    ]
+  }
