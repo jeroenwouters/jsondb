@@ -1,7 +1,7 @@
 {  
     "schedule_blocks":{
         "id": "1",
-        "question": [{ 
+        "questions": [{ 
             "id": 2, 
             "label": "vraag 2",
             "answers": [
