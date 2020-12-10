@@ -1,6 +1,6 @@
-{
-   "id": "1",
+{  
     "schedule_blocks":{
+        "id": "1",
         "question": { 
             "id": 2, 
             "label": "vraag 2",
