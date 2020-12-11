@@ -4,7 +4,7 @@
         "questions": [{ 
             "id": 2, 
             "label": "vraag 2",
-            "answers": [
+            "answerOptions": [
             {
                 "id": 2, 
                 "label": "antwoord 1"
@@ -22,7 +22,7 @@
         { 
          "id": 3, 
          "label": "vraag 3",
-         "answers": [
+         "answerOptions": [
          {
              "id": 2, 
              "label": "antwoord 1"
@@ -46,7 +46,7 @@
         "results": [{ 
          "id": 1, 
          "label": "vraag 1",
-         "answers": [
+         "answerOptions": [
          {
              "id": 2, 
              "label": "antwoord 1",
@@ -70,7 +70,7 @@
     { 
         "id": 1, 
         "label": "vraag 1",
-        "answers": [
+        "answerOptions": [
         {
             "id": 2, 
             "label": "antwoord 1"
@@ -88,7 +88,7 @@
     { 
         "id": 2, 
         "label": "vraag 2",
-        "answers": [
+        "answerOptions": [
         {
             "id": 4, 
             "label": "antwoord 4"
@@ -106,7 +106,7 @@
     { 
         "id": 3, 
         "label": "vraag 3",
-        "answers": [
+        "answerOptions": [
         {
             "id": 7, 
             "label": "antwoord 7"
