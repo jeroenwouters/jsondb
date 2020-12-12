@@ -3,7 +3,7 @@
         "id": "1",
         "questions": [
            { 
-            "id": 2, 
+            "id": 1, 
             "label": "Trek je leerkracht punten af wanneer leerlingen hun taken te laat indienen",
             "answerOptions": [
             {
@@ -21,7 +21,7 @@
            ] 
         },
         { 
-         "id": 3, 
+         "id": 2, 
          "label": "Wat zijn je hobby's",
          "multiple": true,
          "answerOptions": [
