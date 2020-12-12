@@ -7,15 +7,15 @@
             "answerOptions": [
             {
                 "id": 2, 
-                "label": "Ja hij werk met een systeem waarbij elke dag te laat zorgt voor een vermindering van de punten.",
+                "label": "Ja hij werk met een systeem waarbij elke dag te laat zorgt voor een vermindering van de punten."
             },
             {
                "id": 2, 
-               "label": "Ja, er staat een beperkt deel van de punten op het tijdig inleverfen van de taak",
+               "label": "Ja, er staat een beperkt deel van de punten op het tijdig inleverfen van de taak"
             },
             {
                "id": 3, 
-               "label": "ja er is een aparte vermelding of een apart cijfer op het raport",
+               "label": "ja er is een aparte vermelding of een apart cijfer op het raport"
             }
            ] 
         },
