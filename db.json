@@ -3,40 +3,71 @@
         "id": "1",
         "questions": [{ 
             "id": 2, 
-            "label": "vraag 2",
+            "label": "Trek je leerkracht punten af wanneer leerlingen hun taken te laat indienen",
             "answerOptions": [
             {
                 "id": 2, 
-                "label": "antwoord 1"
+                "label": "Ja hij werk met een systeem waarbij elke dag te laat zorgt voor een vermindering van de punten.",
             },
             {
                "id": 2, 
-               "label": "antwoord 2"
+               "label": "Ja, er staat een beperkt deel van de punten op het tijdig inleverfen van de taak",
             },
             {
                "id": 3, 
-               "label": "antwoord 3"
+               "label": "ja er is een aparte vermelding of een apart cijfer op het raport",
             }
            ] 
         },
         { 
          "id": 3, 
-         "label": "vraag 3",
+         "label": "Wat zijn je hobby's",
+         "multiple": true,
          "answerOptions": [
          {
-             "id": 2, 
-             "label": "antwoord 1"
+            "id": 2, 
+            "label": "Jeugdbeweging"
          },
          {
             "id": 2, 
-            "label": "antwoord 2"
+            "label": "Muziek"
          },
          {
             "id": 3, 
-            "label": "antwoord 3"
+            "label": "Sport"
+         },
+         {
+            "id": 3, 
+            "label": "Lezen"
+         },
+         {
+            "id": 3, 
+            "label": "Videospellen"
          }
-        ] 
-     }
+         ] 
+     }, 
+     { 
+      "id": 3, 
+      "label": "Hoeveel  les volg je virtueel per weeek",
+      "answerOptions": [
+      {
+         "id": 2, 
+         "label": "1 - 8 uur"
+      },
+      {
+         "id": 2, 
+         "label": "1 - 2 dagen"
+      },
+      {
+         "id": 3, 
+         "label": "2- 4 dagen"
+      },
+      {
+         "id": 3, 
+         "label": "enkel virtueel"
+      }
+      ] 
+  }
       ],
         "tip": {
          "id": 1, 
@@ -45,21 +76,21 @@
         },
         "results": [{ 
          "id": 1, 
-         "label": "vraag 1",
+         "label": "Trek je punten af wanneer leerlingen hun taken te laat indienen",
          "answerOptions": [
          {
              "id": 2, 
-             "label": "antwoord 1",
+             "label": "Ja ik werk met een systeem waarbij elke dag te laat zorgt voor een vermindering van de punten.",
              "result": 0.3
          },
          {
             "id": 2, 
-            "label": "antwoord 2",
+            "label": "Ja, er staat een beperkt deel van de punten op het tijdig inleverfen van de taak",
             "result": 0.5
          },
          {
             "id": 3, 
-            "label": "antwoord 3",
+            "label": "ja er is een aparte vermelding of een apart cijfer op het raport",
             "result": 0.2
          }
         ] 
@@ -69,19 +100,27 @@
     "questions": [
     { 
         "id": 1, 
-        "label": "vraag 1",
+        "label": "Wat zijn je hobby's",
         "answerOptions": [
         {
             "id": 2, 
-            "label": "antwoord 1"
+            "label": "Jeugdbeweging"
         },
         {
            "id": 2, 
-           "label": "antwoord 2"
+           "label": "Muziek"
         },
         {
            "id": 3, 
-           "label": "antwoord 3"
+           "label": "Sport"
+        },
+         {
+            "id": 3, 
+            "label": "Lezen"
+         },
+        {
+         "id": 3, 
+         "label": "Videospellen"
         }
        ] 
     },
