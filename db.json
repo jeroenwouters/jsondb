@@ -1,7 +1,8 @@
 {  
     "schedule_blocks":{
         "id": "1",
-        "questions": [{ 
+        "questions": [
+           { 
             "id": 2, 
             "label": "Trek je leerkracht punten af wanneer leerlingen hun taken te laat indienen",
             "answerOptions": [
@@ -67,7 +68,7 @@
          "label": "enkel virtueel"
       }
       ] 
-  }
+      }
       ],
         "tip": {
          "id": 1, 
@@ -96,69 +97,5 @@
         ] 
      }],
      "result_count": 1264
-    },
-    "questions": [
-    { 
-        "id": 1, 
-        "label": "Wat zijn je hobby's",
-        "answerOptions": [
-        {
-            "id": 2, 
-            "label": "Jeugdbeweging"
-        },
-        {
-           "id": 2, 
-           "label": "Muziek"
-        },
-        {
-           "id": 3, 
-           "label": "Sport"
-        },
-         {
-            "id": 3, 
-            "label": "Lezen"
-         },
-        {
-         "id": 3, 
-         "label": "Videospellen"
-        }
-       ] 
-    },
-    { 
-        "id": 2, 
-        "label": "vraag 2",
-        "answerOptions": [
-        {
-            "id": 4, 
-            "label": "antwoord 4"
-        },
-        {
-           "id": 5, 
-           "label": "antwoord 5"
-        },
-        {
-           "id": 6, 
-           "label": "antwoord 6"
-        }
-       ] 
-    },
-    { 
-        "id": 3, 
-        "label": "vraag 3",
-        "answerOptions": [
-        {
-            "id": 7, 
-            "label": "antwoord 7"
-        },
-        {
-           "id": 8, 
-           "label": "antwoord 8"
-        },
-        {
-           "id": 9, 
-           "label": "antwoord 9"
-        }
-       ] 
     }
-    ]
-  }
+}
