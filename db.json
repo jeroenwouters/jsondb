@@ -99,6 +99,33 @@
             "result": 0.2
          }
       ] 
-      }]
+      },
+      { 
+         "id": 3, 
+         "label": "Hoeveel  les volg je virtueel per weeek",
+         "answerOptions": [
+         {
+            "id": 1, 
+            "label": "1 - 8 uur",
+            "result": 0.25
+         },
+         {
+            "id": 2, 
+            "label": "1 - 2 dagen",
+            "result": 0.15
+         },
+         {
+            "id": 3, 
+            "label": "2- 4 dagen",
+            "result": 0.4
+         },
+         {
+            "id": 4, 
+            "label": "enkel virtueel",
+            "result": 0.2
+         }
+         ] 
+         }
+   ]
    }
 }
