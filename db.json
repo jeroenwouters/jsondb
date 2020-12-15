@@ -74,15 +74,19 @@
          "id": 1, 
          "label": "test",
          "link": "https://inuits.eu"
-        },
-        "results": [{ 
+        }
+    },
+    "question_results": {
+    "date": "02 december",
+    "questions": [{ 
          "id": 1, 
          "label": "Trek je punten af wanneer leerlingen hun taken te laat indienen",
+         "result_count": 1264,
          "answerOptions": [
          {
-             "id": 2, 
-             "label": "Ja ik werk met een systeem waarbij elke dag te laat zorgt voor een vermindering van de punten.",
-             "result": 0.3
+            "id": 2, 
+            "label": "Ja ik werk met een systeem waarbij elke dag te laat zorgt voor een vermindering van de punten.",
+            "result": 0.3
          },
          {
             "id": 2, 
@@ -94,8 +98,7 @@
             "label": "ja er is een aparte vermelding of een apart cijfer op het raport",
             "result": 0.2
          }
-        ] 
-     }],
-     "result_count": 1264
-    }
+      ] 
+      }]
+   }
 }
